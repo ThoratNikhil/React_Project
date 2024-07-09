@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Antoinette Radford, Christian Edwards, Peter Wilkinson, Jessie Yeung",
+    "title": "France election 2024 live: NFP wins most seats, Macron’s bloc second, Le Pen’s in third - CNN",
+    "description": "Follow for live updates on the second round of France’s snap parliamentary election.",
+    "url": "https://www.cnn.com/world/live-news/france-election-runoff-results-07-07-24-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2160397022-copy.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-07-08T02:27:00Z",
+    "content": "Cheers erupted on the streets of Paris late Sunday as projected results suggested the left-wing New Popular Front (NFP) would beat the far-right National Rally (RN) party in Frances snap parliamentar… [+3044 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Nicole Asbury",
+    "title": "Evidence review set in crash that killed Khyree Jackson, 2 former teammates - The Washington Post",
+    "description": "An expert said the full investigation could take months. No one has been charged in the crash, though authorities have said alcohol is believed to be a factor.",
+    "url": "https://www.washingtonpost.com/dc-md-va/2024/07/07/khyree-jackson-crash-evidence-review/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AFUJVHGA6ZCG6W7AVN5TUB7Q2U.jpg&w=1440",
+    "publishedAt": "2024-07-08T01:59:10Z",
+    "content": "Prosecutors plan to review evidence this week from the crash that killed NFL rookie Khyree Jackson and two former high school teammates, officials said Sunday, though an expert cautioned that it coul… [+3330 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KABC-TV"
+    },
+    "author": null,
+    "title": "Motorcyclist dies from heat exposure in Death Valley amid record-breaking temps - KABC-TV",
+    "description": "A motorcyclist died from heat exposure Saturday while visiting Death Valley National Park as the temperature there reached 128 degrees this weekend.",
+    "url": "https://abc7.com/post/motorcyclist-dies-heat-exposure-death-valley-amid-record/15040696/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/15040724_death-valley-generic-clean-TN-img.jpg?w=1600",
+    "publishedAt": "2024-07-08T01:18:39Z",
+    "content": "DEATH VALLEY, Calif. (KABC) -- A motorcyclist died from heat exposure Saturday while visiting Death Valley National Park as the temperature there reached 128 degrees this weekend.\r\nA high temperature… [+1343 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KABC-TV"
+    },
+    "author": "Bill Hutchinson",
+    "title": "Michael Jackson's Neverland Ranch in path of Lake Fire in Santa Barbara County - KABC-TV",
+    "description": "The Lake Fire has burned more than 16,000 acres.",
+    "url": "https://abc7.com/post/neverland-ranch-former-home-michael-jackson-path-lake/15040575/",
+    "urlToImage": "https://cdn.abcotvs.com/dip/images/15040628_neverland-ranch-fire-clean-AP-TN-img.jpg?w=1600",
+    "publishedAt": "2024-07-08T00:42:06Z",
+    "content": "SANTA BARBARA, Calif. -- Firefighters battling flames amid a heat wave in Southern California are struggling to gain control of a wildfire that exploded over the weekend to more than 16,000 acres, pr… [+1685 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KTLA Los Angeles"
+    },
+    "author": "CHRISTOPHER WEBER and MARGERY A. BECK, Associated Press",
+    "title": "Persistent heat wave in the US shatters new records, causes deaths in the West and grips the East - KTLA Los Angeles",
+    "description": "LOS ANGELES (AP) — A long-running heat wave that has already shattered previous records across the U.S. persisted on Sunday, baking parts of the West with dangerous temperatures that caused the death of a motorcyclist in Death Valley and held the East in its …",
+    "url": "https://ktla.com/news/california/ap-torrid-heat-bakes-millions-of-people-in-large-swaths-of-us-setting-records-and-fanning-wildfires/",
+    "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2024/07/668b53923944d1.29574674.jpeg?w=1280",
+    "publishedAt": "2024-07-08T00:37:39Z",
+    "content": "LOS ANGELES (AP) A long-running heat wave that has already shattered previous records across the U.S. persisted on Sunday, baking parts of the West with dangerous temperatures that caused the death o… [+6281 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Christian Arnold",
+    "title": "Pirates' Paul Skenes makes All-Star Game history with selection - New York Post ",
+    "description": "It’s good to be Paul Skenes these days.",
+    "url": "https://nypost.com/2024/07/07/sports/pirates-paul-skenes-makes-all-star-game-history-with-selection/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/skenes-main-1-usa-today-sports.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-07-08T00:32:00Z",
+    "content": "Its good to be Paul Skenes these days. \r\nThe Pirates’ star rookie made a bit of history Sunday when he was named to the MLB All-Star Game by becoming the first player to be taken No. 1 overall in the… [+2357 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Storm Beryl shifts toward Houston, could make landfall as Category 2 hurricane - Reuters",
+    "description": null,
+    "url": "https://www.reuters.com/world/us/storm-beryl-heads-texas-may-regain-hurricane-force-2024-07-07/",
+    "urlToImage": null,
+    "publishedAt": "2024-07-08T00:23:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "Aditi Srivastava",
+    "title": "Margot Robbie is pregnant; Barbie star debuts baby bump, expecting first child with husband Tom Ackerely - Hindustan Times",
+    "description": "Margot Robbie reportedly expecting first child with husband Tom Ackerley. Couple yet to address the news confirmed by sources. | Hollywood",
+    "url": "https://www.hindustantimes.com/entertainment/hollywood/margot-robbie-is-pregnant-barbie-star-debuts-baby-bump-expecting-first-child-with-husband-tom-ackerely-101720396770232.html",
+    "urlToImage": "https://images.hindustantimes.com/img/2024/07/08/1600x900/96th-Academy-Awards---Arrivals-544_1710128761523_1720397383695.jpg",
+    "publishedAt": "2024-07-08T00:12:43Z",
+    "content": "Academy Award-nominated actress Margot Robbie is reportedly expecting her first child with her husband, film producer Tom Ackerley. The news comes after photos surfaced of Robbie vacationing in Italy… [+2711 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": null,
+    "title": "Sister of North Korean leader Kim calls South Korea's live-fire drills 'suicidal hysteria' - Yahoo! Voices",
+    "description": null,
+    "url": "https://www.yahoo.com/news/sister-north-korean-leader-kim-000704297.html",
+    "urlToImage": null,
+    "publishedAt": "2024-07-08T00:07:00Z",
+    "content": "If you click 'Accept all', we and our partners, including 238 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Starmer sets his sights on Scotland - BBC.com",
+    "description": "Labour are already talking about repeating their electoral success at the Holyrood elections, James Cook writes.",
+    "url": "https://www.bbc.com/news/articles/cd1xnvg3y76o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/77c2/live/48e59500-3cb4-11ef-8cac-91c5b05a0123.jpg",
+    "publishedAt": "2024-07-07T23:56:11Z",
+    "content": "Is your life better after 14 years of Conservative government?\r\nThat, in a nutshell, was the question Labour asked voters in this general election campaign.\r\nYou don't need me to tell you that it wor… [+6301 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "John Branch",
+    "title": "‘Just ludicrous’: Ex-Pence advisor on Trump’s attempt to distance himself from ‘Project 2025’ - CNN",
+    "description": "Former Mike Pence advisor Olivia Troye responds to President Donald Trump distancing himself from a conservative group’s plans to radically reshape the federal government should the former president win a second term.",
+    "url": "https://www.cnn.com/2024/07/07/politics/video/trump-distance-project-2025-olivia-troye-nr-digvid",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20240707-split-trump.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-07-07T23:34:10Z",
+    "content": "Former Mike Pence advisor Olivia Troye responds to President Donald Trump distancing himself from a conservative groups plans to radically reshape the federal government should the former president w… [+16 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "COLLEEN LONG, WILL WEISSERT, LISA MASCARO, MARC LEVY",
+    "title": "Several Democratic committee leaders said Biden should step aside, sources say - The Associated Press",
+    "description": "President Joe Biden has urged his supporters to stay unified during a series of Sunday stops in critical Pennsylvania. His calls came Sunday, even as some leading congressional Democrats privately suggested it was time for him to abandon his reelection bid am…",
+    "url": "https://apnews.com/article/biden-campaigning-pennsylvania-democratic-doubts-election-77b050b1c5c39aec2ef633281d082566",
+    "urlToImage": "https://dims.apnews.com/dims4/default/2ef7212/2147483647/strip/true/crop/3000x1688+0+156/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb8%2F96%2F5cd3b621773369f9def313c2d20f%2F622abf9cef934d2abaee51078fc957b6",
+    "publishedAt": "2024-07-07T23:26:00Z",
+    "content": "HARRISBURG, Pa. (AP) President Joe Biden urged his supporters to stay unified during a series of Sunday stops in critical Pennsylvania on Sunday, even as some leading congressional Democrats privatel… [+7665 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Reuters",
+    "title": "Special committee of Paramount Global endorses plan to merge with Skydance Media, source says - New York Post ",
+    "description": "Tech scion David Ellison moved one step closer to gaining control of Paramount Global, with a special committee voting Sunday to support a merger with his Skydance Media, a source close to the deal…",
+    "url": "https://nypost.com/2024/07/07/business/special-committee-of-paramount-global-endorses-plan-to-merge-with-skydance-media-source-says/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/07/newspress-collage-xpqmhybx3-1720393522005.jpg?quality=75&strip=all&1720379159&w=1024",
+    "publishedAt": "2024-07-07T23:24:00Z",
+    "content": "Tech scion David Ellison moved one step closer to gaining control of Paramount Global, with a special committee voting Sunday to support a merger with his Skydance Media, a source close to the deal t… [+1354 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ScienceAlert"
+    },
+    "author": "Michelle Starr",
+    "title": "We Finally Know What Turned on The Lights at The Dawn of Time - ScienceAlert",
+    "description": "We finally know what brought light to the dark and formless void of the early Universe.",
+    "url": "https://www.sciencealert.com/we-finally-know-what-turned-on-the-lights-at-the-dawn-of-time",
+    "urlToImage": "https://www.sciencealert.com/images/2024/02/dwarf-galaxies.jpg",
+    "publishedAt": "2024-07-07T23:16:31Z",
+    "content": "We finally know what brought light to the dark and formless void of the early Universe.\r\nAccording to data from the Hubble and James Webb Space Telescopes, the origins of the free-flying photons in t… [+4753 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": "POLITICO",
+    "title": "Radio station parts ways with Biden interviewer for using questions sent in advance - POLITICO",
+    "description": null,
+    "url": "https://www.politico.com/news/2024/07/07/radio-station-parts-ways-biden-interviewer-00166736",
+    "urlToImage": null,
+    "publishedAt": "2024-07-07T22:28:02Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Page Six"
+    },
+    "author": "Vanessa Serna",
+    "title": "Sober Cara Delevingne recalls getting drunk at age 8: I thought drugs and alcohol 'helped me cope' - Page Six",
+    "description": "The model decided to sober up in 2022 after paparazzi released photos of her acting erratic at an airport on her way home from Burning Man.",
+    "url": "https://pagesix.com/2024/07/07/entertainment/sober-cara-delevingne-recalls-getting-drunk-at-age-8/",
+    "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/07/85110148-1.jpg?quality=75&strip=all&w=1024",
+    "publishedAt": "2024-07-07T22:07:00Z",
+    "content": "Cara Delevingne recalled getting drunk at her aunt’s wedding when she was just 8 years old.\r\nWhile reflecting on her decades-long struggles with substance abuse, the “Suicide Squad” star, 31, thought… [+3230 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "William Clayton,Shanila Kabir",
+    "title": "'Need to take this very seriously:' Health expert warns against uptick in Florida COVID cases - Yahoo! Voices",
+    "description": "Amid a nationwide summer spike in COVID-19 cases, Florida is reportedly experiencing one of the highest increases, prompting health experts to warn residents...",
+    "url": "https://www.yahoo.com/news/very-seriously-health-expert-warns-214838832.html",
+    "urlToImage": "https://media.zenfs.com/en/wjax_cox_articles_158/accd4fef7ecf69dd60709dd52f9b17d3",
+    "publishedAt": "2024-07-07T21:48:38Z",
+    "content": "Amid a nationwide summer spike in COVID-19 cases, Florida is reportedly experiencing one of the highest increases, prompting health experts to warn residents to take the situation very seriously and … [+3897 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Formula 1"
+    },
+    "author": "F1",
+    "title": "What the teams said – Race day at the 2024 British Grand Prix | Formula 1® - Formula 1",
+    "description": "The drivers and teams report back on all the action from the 2024 British Grand Prix at Silverstone.",
+    "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-great-britain-2024.3x9dPJwoI3QGCumqZJRqeQ",
+    "urlToImage": "https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1720371052/trackside-images/2024/F1_Grand_Prix_of_Great_Britain/2161023447.jpg",
+    "publishedAt": "2024-07-07T20:40:18Z",
+    "content": "Mercedes\r\nThere were sensational scenes at Mercedes, as Lewis Hamilton followed up George Russells Austria win with his own first victory since Saudi Arabia 2021, ending a 56-race streak. That was do… [+4074 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "BRIAN P. D. HANNON",
+    "title": "NASA crew in simulated Mars habitat emerge after a year - The Associated Press",
+    "description": "Four volunteer crew members who spent more than 12 months inside NASA’s first simulated Mars environment at Johnson Space Center in Houston have emerged from the artificial alien enviroment. Kelly Haston, Anca Selariu, Ross Brockwell and Nathan Jones entered …",
+    "url": "https://apnews.com/article/nasa-simulated-mars-habitat-exit-7fd7d511ca22016793d504b1a47f97ee",
+    "urlToImage": "https://dims.apnews.com/dims4/default/204efac/2147483647/strip/true/crop/2000x1125+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2F7c%2Facdb3c81c105c845d18f0b3ae89c%2F70bd8570b9ed4aa89e7d86e531ed8ec9",
+    "publishedAt": "2024-07-07T20:26:00Z",
+    "content": "The crew of a NASA mission to Mars emerged from their craft after a yearlong voyage that never left Earth.\r\nThe four volunteer crew members spent more than 12 months inside NASAs first simulated Mars… [+3433 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    }
+    ]
+    }
+    
